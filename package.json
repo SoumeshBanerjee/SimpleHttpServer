@@ -1,0 +1,14 @@
+{
+  "name": "simplenodeserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simpleServer.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
